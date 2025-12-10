@@ -2,7 +2,7 @@
 
 namespace Amadeus\Client\Struct\Profile;
 
-class ReadRequests
+class ReadRequest
 {
     /**
      * @var ProfileReadRequest
